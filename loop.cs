@@ -1,6 +1,6 @@
 // using System;
 
-// namespace LOOP
+// namespace system
 // {
 //     class Program
 //     {
